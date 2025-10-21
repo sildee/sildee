@@ -11,6 +11,6 @@ I've followed the following core semesters:
 
 Below, I've pinned two projects I've highlighted to showcase my programming journey so far. 
 
-The Dungeon Not Found project was a group game project made in Unity - I developed the inventory, weapon, and loot systems and corresponding interface, contributed significantly to enemies, and developed the boss fight.  
+The Dungeon Not Found project was a group game project made in Unity - I developed the inventory, weapon, and loot systems and corresponding interface, contributed significantly to enemies, and developed the boss fight. I was also in charge of the repository, and so responsible for the code quality and consistency of the project.
 
-The Computer Graphics assignment is a smaller solo project meant to showcase an intermediate understanding of C++.
+The Computer Graphics assignment is a smaller solo project meant to showcase an intermediate C++ skill level.
