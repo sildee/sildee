@@ -2,7 +2,7 @@
 Welcome to my profile!
 I'm Silas, a fourth-year HBO-ICT student at Windesheim University of Applied Sciences.
 
-I've followed the following semesters:
+I've followed the following core semesters:
 - Object-Oriented Software Design & Development
 - Web Development
 - Quality In Software Development
