@@ -13,4 +13,4 @@ Below, I've pinned two projects I've highlighted to showcase my programming jour
 
 The Dungeon Not Found project was a group game project made in Unity - I developed the inventory, weapon, and loot systems and corresponding interface, contributed significantly to enemies, and developed the boss fight.  
 
-The Computer Graphics assignment is a smaller solo project meant to showcase an intermediate understanding of C++ as a personal showcase.
+The Computer Graphics assignment is a smaller solo project meant to showcase an intermediate understanding of C++.
